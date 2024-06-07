@@ -7,7 +7,7 @@ Overview:
 Provide personalized food devlivery recommendations based on user preferences and location. Users can log in via third-party authentication, set up their profile with dietary preferences, and receive tailored food recommendations from local restaurant.
 - Public Datasets
 - Code References
-	- 利用API获取开源数据: https://www.bilibili.com/video/BV1Ag411Y7eb/?spm_id_from=333.1007.top_right_bar_window_history.content.c				      lick&vd_source=84c07544403f8920b4beb27806eb9f70
+	- 利用API获取开源数据: https://www.bilibili.com/video/BV1Ag411Y7eb/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=84c07544403f8920b4beb27806eb9f70
 
 Team Proposal 2: Personalized Car Recommendations
 -------------------------------------------------
