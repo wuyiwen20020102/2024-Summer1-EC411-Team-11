@@ -11,6 +11,8 @@ Provide personalized food devlivery recommendations based on user preferences an
 - Public Datasets
 - Code References
 	- 利用API获取开源数据: https://www.bilibili.com/video/BV1Ag411Y7eb/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=84c07544403f8920b4beb27806eb9f70
+	- Tripadvisor: https://developer-tripadvisor.com/home/
+	- Uber: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/introduction (可能会用到)
 
 Team Proposal 2: Personalized Car Recommendations
 -------------------------------------------------
