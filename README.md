@@ -14,5 +14,8 @@ Team Proposal 2: Personalized Car Recommendations
 Overview:
 Provide personalized car recommendations based on user preferences such as favorite brands and desirable price range. User can log in via third-party authenication, set up their profile their profile with preferences and receive tailored car model suggestions.
 - Public Datasets
+	- NHTSA Vehicle API: https://vpic.nhtsa.dot.gov/api/?ref=public_apis
+	- KBB Vehicle API: http://developer.kbb.com/#!/data/1-Default?ref=public_apis
+
 - Code References
 
