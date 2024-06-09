@@ -14,7 +14,7 @@ Overview:
 Provide personalized food devlivery recommendations based on user preferences and location. Users can log in via third-party authentication, set up their profile with dietary preferences, and receive tailored food recommendations from local restaurant.
 - Public Datasets
 	- Tripadvisor: https://developer-tripadvisor.com/home/
-        - Uber: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/introduction (可能会用到)
+	- Uber: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/introduction (可能会用到)
 - Code References
 
 Team Proposal 2: Personalized Car Recommendations
