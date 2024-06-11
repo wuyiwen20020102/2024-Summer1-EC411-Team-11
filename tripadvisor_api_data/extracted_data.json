@@ -2,51 +2,101 @@
     {
         "location_id": "258730",
         "name": "Beacon Townhouse Inn 1023",
-        "address_string": "1023 Beacon St, Brookline, MA 02446-5609"
+        "address_string": "1023 Beacon St, Brookline, MA 02446-5609",
+        "web_url": "https://www.tripadvisor.com/Hotel_Review-g60823-d258730-Reviews-Beacon_Townhouse_Inn_1023-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "hotel",
+            "localized_name": "Hotel"
+        }
     },
     {
         "location_id": "323129",
         "name": "Maluken and Sushi Express",
-        "address_string": "1038 Beacon St Ste 3, Brookline, MA 02446-4078"
+        "address_string": "1038 Beacon St Ste 3, Brookline, MA 02446-4078",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60823-d323129-Reviews-Maluken_and_Sushi_Express-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "restaurant",
+            "localized_name": "Restaurant"
+        }
     },
     {
         "location_id": "13423905",
         "name": "Southwest Day Spa",
-        "address_string": "1038 Beacon St, Brookline, MA 02446-4078"
+        "address_string": "1038 Beacon St, Brookline, MA 02446-4078",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g60823-d13423905-Reviews-Southwest_Day_Spa-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "attraction",
+            "localized_name": "Attraction"
+        }
     },
     {
         "location_id": "540131",
         "name": "Japonaise Cafe and Bakery",
-        "address_string": "1020 Beacon St, Brookline, MA 02446-4001"
+        "address_string": "1020 Beacon St, Brookline, MA 02446-4001",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60823-d540131-Reviews-Japonaise_Cafe_and_Bakery-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "restaurant",
+            "localized_name": "Restaurant"
+        }
     },
     {
         "location_id": "19412964",
         "name": "Bar 'Cino",
-        "address_string": "1032 Beacon St, Brookline, MA 02446-4001"
+        "address_string": "1032 Beacon St, Brookline, MA 02446-4001",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60823-d19412964-Reviews-Bar_Cino-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "restaurant",
+            "localized_name": "Restaurant"
+        }
     },
     {
         "location_id": "323833",
         "name": "Temptations Cafe",
-        "address_string": "1038 Beacon St Ste 1, Brookline, MA 02446-4078"
+        "address_string": "1038 Beacon St Ste 1, Brookline, MA 02446-4078",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60823-d323833-Reviews-Temptations_Cafe-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "restaurant",
+            "localized_name": "Restaurant"
+        }
     },
     {
         "location_id": "21167447",
         "name": "Tbaar",
-        "address_string": "1038 Beacon St, Brookline, MA 02446-4001"
+        "address_string": "1038 Beacon St, Brookline, MA 02446-4001",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60823-d21167447-Reviews-Tbaar-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "restaurant",
+            "localized_name": "Restaurant"
+        }
     },
     {
         "location_id": "870218",
         "name": "Kupel's Bakery",
-        "address_string": "421 Harvard St, Brookline, MA 02446-2429"
+        "address_string": "421 Harvard St, Brookline, MA 02446-2429",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60823-d870218-Reviews-Kupel_s_Bakery-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "restaurant",
+            "localized_name": "Restaurant"
+        }
     },
     {
         "location_id": "10689511",
         "name": "Club Dante",
-        "address_string": "415 Harvard St, Brookline, MA 02446-2903"
+        "address_string": "415 Harvard St, Brookline, MA 02446-2903",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60823-d10689511-Reviews-Club_Dante-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "restaurant",
+            "localized_name": "Restaurant"
+        }
     },
     {
         "location_id": "20233631",
         "name": "Kosher Wok",
-        "address_string": "423 Harvard St, Brookline, MA 02446-2429"
+        "address_string": "423 Harvard St, Brookline, MA 02446-2429",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g60823-d20233631-Reviews-Kosher_Wok-Brookline_Massachusetts.html?m=66827",
+        "category": {
+            "name": "restaurant",
+            "localized_name": "Restaurant"
+        }
     }
 ]
