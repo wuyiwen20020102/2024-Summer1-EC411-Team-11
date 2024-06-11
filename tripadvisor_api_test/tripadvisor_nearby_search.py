@@ -1,4 +1,6 @@
 import requests
+import json 
+from data_extractor import extract_data
 
 key = '3265045EBF3847FCB2DCB6213C1FE9EB'
 
@@ -19,7 +21,9 @@ response = requests.get(url, headers=headers)
 
 if response.status_code == 200:
     data = response.json()
-    print(data)
+    extracted_data = extract_data(data)
+    with open('extracted_restaurant_data.json', 'w') as file:
+        json.dump(extracted_data, file, indent=4)
 else:
     print(f"Failed to retrieve data: {response.status_code}")
     print(response.json())
