@@ -1,0 +1,52 @@
+[
+    {
+        "location_id": "258730",
+        "name": "Beacon Townhouse Inn 1023",
+        "address_string": "1023 Beacon St, Brookline, MA 02446-5609"
+    },
+    {
+        "location_id": "323129",
+        "name": "Maluken and Sushi Express",
+        "address_string": "1038 Beacon St Ste 3, Brookline, MA 02446-4078"
+    },
+    {
+        "location_id": "13423905",
+        "name": "Southwest Day Spa",
+        "address_string": "1038 Beacon St, Brookline, MA 02446-4078"
+    },
+    {
+        "location_id": "540131",
+        "name": "Japonaise Cafe and Bakery",
+        "address_string": "1020 Beacon St, Brookline, MA 02446-4001"
+    },
+    {
+        "location_id": "19412964",
+        "name": "Bar 'Cino",
+        "address_string": "1032 Beacon St, Brookline, MA 02446-4001"
+    },
+    {
+        "location_id": "323833",
+        "name": "Temptations Cafe",
+        "address_string": "1038 Beacon St Ste 1, Brookline, MA 02446-4078"
+    },
+    {
+        "location_id": "21167447",
+        "name": "Tbaar",
+        "address_string": "1038 Beacon St, Brookline, MA 02446-4001"
+    },
+    {
+        "location_id": "870218",
+        "name": "Kupel's Bakery",
+        "address_string": "421 Harvard St, Brookline, MA 02446-2429"
+    },
+    {
+        "location_id": "10689511",
+        "name": "Club Dante",
+        "address_string": "415 Harvard St, Brookline, MA 02446-2903"
+    },
+    {
+        "location_id": "20233631",
+        "name": "Kosher Wok",
+        "address_string": "423 Harvard St, Brookline, MA 02446-2429"
+    }
+]
