@@ -4,8 +4,6 @@ API大全:
 - https://github.com/public-apis/public-apis
 - https://github.com/TonnyL/Awesome_APIs
 
-Log日志:
-- 6/11 成功调动Tripadvisor API。nearby_search是由用户提供经纬度搜索附近10个餐馆，之后回尝试扩大搜索数量。loc_info是用Tripadvisor给餐厅特定的location_id去爬该餐厅的信息，会结合nearby_search一起使用。loc_search是个废案，不考虑，懒得删了。之后的计划是考虑用Uber的API来预估配送费。
 Team Proposal 1: Personalized Food Delivery Recommendations
 -----------------------------------------------------------
 Overview:
