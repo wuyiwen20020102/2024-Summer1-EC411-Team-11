@@ -10,6 +10,7 @@ API教程:
 
 Log日志:
 - 6/11 成功调动Tripadvisor API。nearby_search是由用户提供经纬度搜索附近10个餐馆，之后回尝试扩大搜索数量。loc_info是用Tripadvisor给餐厅特定的location_id去爬该餐厅的信息，会结合nearby_search一起使用。loc_search是个废案，不考虑，懒得删了。之后的计划是考虑用Uber的API来预估配送费。
+- 6/11 把nearby_search和loc_search串联了起来，筛选了目前感觉需要的信息(如name, location_id, address, url, category)。如果需要更多信息可以之后在进行更改。
 
 Team Proposal 1: Personalized Food Delivery Recommendations
 -----------------------------------------------------------
