@@ -8,6 +8,9 @@ API教程:
 - python做API接口测试和自动化: https://www.bilibili.com/video/BV1EJ411M7Ln/?spm_id_from=333.337.search-card.all.click&vd_source=84c07544403f8920b4beb27806eb9f70
 - 利用API获取开源数据: https://www.bilibili.com/video/BV1Ag411Y7eb/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=84c07544403f8920b4beb27806eb9f70
 
+Log日志:
+- 6/11 成功调动Tripadvisor API。nearby_search是由用户提供经纬度搜索附近10个餐馆，之后回尝试扩大搜索数量。loc_info是用Tripadvisor给餐厅>特定的location_id去爬该餐厅的信息，会结合nearby_search一起使用。loc_search是个废案，不考虑，懒得删了。之后的计划是考虑用Uber的API来预估配送费。
+
 Team Proposal 1: Personalized Food Delivery Recommendations
 -----------------------------------------------------------
 Overview:
