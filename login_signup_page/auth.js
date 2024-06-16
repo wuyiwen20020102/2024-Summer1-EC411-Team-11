@@ -6,6 +6,7 @@ const GOOGLE_CLIENT_ID = 'xxxxx';
 const GOOGLE_CLIENT_SECRET = 'xxxxx'; //密钥放这里
 */
 
+/*
 passport.use(new GoogleStrategy({
     clientID:     GOOGLE_CLIENT_ID,
     clientSecret: GOOGLE_CLIENT_SECRET,
@@ -13,10 +14,6 @@ passport.use(new GoogleStrategy({
     passReqToCallback   : true
   },
   function(request, accessToken, refreshToken, profile, done) {
-    /*User.findOrCreate({ googleId: profile.id }, function (err, user) {
-      return done(err, user);
-    });
-    */
     console.log('AccessToken:', accessToken);
     console.log('Profile:', profile);
     return done(null, profile);
@@ -30,3 +27,4 @@ passport.serializeUser(function(user,done) {
 passport.deserializeUser(function(user,done) {
     done(null, user);
 });
+*/
