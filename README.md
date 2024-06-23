@@ -14,6 +14,7 @@ Log日志:
 - 6/12 完善了整个API信息提取的脚本，解决了Tripadvisor API只能提供10个餐厅信息的问题，现在能提供50个不同餐厅的信息。唯一的问题就是运行时间有点长，一次大概需要43秒(就是因为这sb Tripadvisor只能每次提取10个，还是一样的，我只能用两个for loop去提取周边其他餐厅)。之后的计划是开始对前端进行基本开发，先做个登陆界面，插入OAuth，对API key和用户信息进行加密。
 - 6/16 做了个登陆界面的基础模板，目前还没有任何功能，可以点击login_signup_page里的index.html进行查看。对Google OAuth2进行了初步测试，我这边应该是出在了VPN的问题上，等待进一步测试。近两天还需要完成的目标有把登陆界面和Google OAuth2连接起来，添加用户数据库，把Tripadvisor API改成以医院为中心对周边的做租房信息进行提取。
 - 6/23 把JS，HTML文件与Android Studio进行兼容，在Health_Homes_App里。明天要把SQL数据库完成。
+
 Team Proposal 1: Personalized Food Delivery Recommendations
 -----------------------------------------------------------
 Overview:
